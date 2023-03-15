@@ -1,0 +1,5 @@
+**/.ipynb_checkpoints/
+**/data/
+*.png
+WorkingSheets.ipynb
+spyder_shade.py
